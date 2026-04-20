@@ -1,0 +1,101 @@
+Meeting,Date,Description,Depend On,Action,Owner,Status,Deadline,Priority
+Meeting 1,2026-01-06,Weekly project meeting,,Analyze data #1,Alice,Open,2026-01-16,Low
+Meeting 1,2026-01-06,Weekly project meeting,Analyze data #1,Prepare report #2,Frank,Done,2026-01-16,High
+Meeting 1,2026-01-06,Weekly project meeting,Prepare report #2,Write documentation #3,David,Done,2026-01-14,High
+Meeting 2,2026-01-07,Product improvement discussion,,Fix bug #1,Emma,In Progress,2026-01-10,High
+Meeting 2,2026-01-07,Product improvement discussion,Fix bug #1,Update dashboard #2,Emma,Done,2026-01-12,High
+Meeting 2,2026-01-07,Product improvement discussion,Update dashboard #2,Write documentation #3,David,In Progress,2026-01-14,Medium
+Meeting 2,2026-01-07,Product improvement discussion,Write documentation #3,Review documents #4,Bob,Open,2026-01-17,High
+Meeting 3,2026-01-08,Product improvement discussion,,Analyze data #1,Frank,In Progress,2026-01-11,Low
+Meeting 3,2026-01-08,Product improvement discussion,Analyze data #1,Write documentation #2,Emma,In Progress,2026-01-16,Medium
+Meeting 3,2026-01-08,Product improvement discussion,Write documentation #2,Update dashboard #3,Alice,Open,2026-01-16,High
+Meeting 4,2026-01-09,Sprint planning,,Design UI #1,David,Done,2026-01-14,Medium
+Meeting 4,2026-01-09,Sprint planning,Design UI #1,Prepare report #2,Bob,Open,2026-01-13,Medium
+Meeting 4,2026-01-09,Sprint planning,Prepare report #2,Design UI #3,Bob,Open,2026-01-18,High
+Meeting 5,2026-01-10,Sprint planning,,Update dashboard #1,Charlie,Open,2026-01-13,Low
+Meeting 5,2026-01-10,Sprint planning,Update dashboard #1,Collect requirements #2,Frank,Open,2026-01-17,Low
+Meeting 5,2026-01-10,Sprint planning,Collect requirements #2,Design UI #3,Charlie,Done,2026-01-13,Medium
+Meeting 5,2026-01-10,Sprint planning,Design UI #3,Fix bug #4,David,Done,2026-01-14,High
+Meeting 6,2026-01-11,Client requirement discussion,,Write documentation #1,Bob,Open,2026-01-17,Low
+Meeting 6,2026-01-11,Client requirement discussion,Write documentation #1,Update dashboard #2,Frank,In Progress,2026-01-21,Medium
+Meeting 6,2026-01-11,Client requirement discussion,Update dashboard #2,Analyze data #3,Emma,In Progress,2026-01-19,Medium
+Meeting 7,2026-01-12,Product improvement discussion,,Update dashboard #1,Alice,Open,2026-01-18,High
+Meeting 7,2026-01-12,Product improvement discussion,Update dashboard #1,Test feature #2,Emma,Done,2026-01-20,High
+Meeting 7,2026-01-12,Product improvement discussion,Test feature #2,Fix bug #3,Charlie,Open,2026-01-20,High
+Meeting 7,2026-01-12,Product improvement discussion,Fix bug #3,Deploy update #4,Bob,Open,2026-01-16,Medium
+Meeting 7,2026-01-12,Product improvement discussion,Deploy update #4,Prepare report #5,Frank,Open,2026-01-17,Low
+Meeting 8,2026-01-13,Weekly project meeting,,Analyze data #1,David,Done,2026-01-23,Medium
+Meeting 8,2026-01-13,Weekly project meeting,Analyze data #1,Deploy update #2,David,In Progress,2026-01-22,High
+Meeting 8,2026-01-13,Weekly project meeting,Deploy update #2,Test feature #3,Bob,In Progress,2026-01-16,Low
+Meeting 8,2026-01-13,Weekly project meeting,Test feature #3,Fix bug #4,Charlie,Open,2026-01-18,High
+Meeting 9,2026-01-14,Internal review meeting,,Prepare report #1,Frank,Open,2026-01-17,High
+Meeting 9,2026-01-14,Internal review meeting,Prepare report #1,Prepare report #2,David,Done,2026-01-23,Low
+Meeting 9,2026-01-14,Internal review meeting,Prepare report #2,Test feature #3,Alice,Done,2026-01-24,High
+Meeting 10,2026-01-15,Sprint planning,,Update dashboard #1,Frank,In Progress,2026-01-23,Low
+Meeting 10,2026-01-15,Sprint planning,Update dashboard #1,Update dashboard #2,David,In Progress,2026-01-19,High
+Meeting 10,2026-01-15,Sprint planning,Update dashboard #2,Analyze data #3,David,Open,2026-01-22,High
+Meeting 10,2026-01-15,Sprint planning,Analyze data #3,Deploy update #4,Charlie,In Progress,2026-01-18,Medium
+Meeting 10,2026-01-15,Sprint planning,Deploy update #4,Deploy update #5,David,In Progress,2026-01-19,Medium
+Meeting 11,2026-01-16,Internal review meeting,,Review documents #1,Charlie,Done,2026-01-25,Low
+Meeting 11,2026-01-16,Internal review meeting,Review documents #1,Deploy update #2,Bob,In Progress,2026-01-24,Low
+Meeting 11,2026-01-16,Internal review meeting,Deploy update #2,Test feature #3,Alice,In Progress,2026-01-19,Medium
+Meeting 11,2026-01-16,Internal review meeting,Test feature #3,Review documents #4,Charlie,Done,2026-01-20,Medium
+Meeting 11,2026-01-16,Internal review meeting,Review documents #4,Prepare report #5,Alice,Open,2026-01-26,Medium
+Meeting 12,2026-01-17,Internal review meeting,,Write documentation #1,Bob,Done,2026-01-23,Low
+Meeting 12,2026-01-17,Internal review meeting,Write documentation #1,Test feature #2,Alice,In Progress,2026-01-27,Medium
+Meeting 12,2026-01-17,Internal review meeting,Test feature #2,Write documentation #3,Bob,In Progress,2026-01-25,Low
+Meeting 12,2026-01-17,Internal review meeting,Write documentation #3,Deploy update #4,Alice,In Progress,2026-01-20,Medium
+Meeting 12,2026-01-17,Internal review meeting,Deploy update #4,Analyze data #5,Emma,Open,2026-01-24,High
+Meeting 13,2026-01-18,Sprint planning,,Deploy update #1,Bob,Open,2026-01-25,Low
+Meeting 13,2026-01-18,Sprint planning,Deploy update #1,Analyze data #2,Frank,In Progress,2026-01-24,Medium
+Meeting 13,2026-01-18,Sprint planning,Analyze data #2,Deploy update #3,Frank,Done,2026-01-24,High
+Meeting 13,2026-01-18,Sprint planning,Deploy update #3,Test feature #4,David,Open,2026-01-24,High
+Meeting 13,2026-01-18,Sprint planning,Test feature #4,Collect requirements #5,Frank,Done,2026-01-21,High
+Meeting 13,2026-01-18,Sprint planning,Collect requirements #5,Fix bug #6,Frank,In Progress,2026-01-25,Medium
+Meeting 14,2026-01-19,Product improvement discussion,,Test feature #1,Frank,In Progress,2026-01-29,Low
+Meeting 14,2026-01-19,Product improvement discussion,Test feature #1,Update dashboard #2,Frank,Open,2026-01-26,Medium
+Meeting 14,2026-01-19,Product improvement discussion,Update dashboard #2,Prepare report #3,David,Done,2026-01-26,Low
+Meeting 15,2026-01-20,Internal review meeting,,Test feature #1,Charlie,In Progress,2026-01-25,Medium
+Meeting 15,2026-01-20,Internal review meeting,Test feature #1,Design UI #2,Alice,Open,2026-01-27,High
+Meeting 15,2026-01-20,Internal review meeting,Design UI #2,Write documentation #3,David,In Progress,2026-01-28,Low
+Meeting 16,2026-01-21,Sprint planning,,Update dashboard #1,Bob,Open,2026-01-28,Low
+Meeting 16,2026-01-21,Sprint planning,Update dashboard #1,Deploy update #2,Charlie,Open,2026-01-26,Medium
+Meeting 16,2026-01-21,Sprint planning,Deploy update #2,Deploy update #3,Charlie,Done,2026-01-27,High
+Meeting 16,2026-01-21,Sprint planning,Deploy update #3,Prepare report #4,Frank,Open,2026-01-31,High
+Meeting 16,2026-01-21,Sprint planning,Prepare report #4,Design UI #5,Alice,Open,2026-01-28,Low
+Meeting 16,2026-01-21,Sprint planning,Design UI #5,Review documents #6,Bob,Done,2026-01-31,Low
+Meeting 17,2026-01-22,Sprint planning,,Analyze data #1,Bob,Open,2026-01-31,Low
+Meeting 17,2026-01-22,Sprint planning,Analyze data #1,Prepare report #2,Frank,In Progress,2026-02-01,Medium
+Meeting 17,2026-01-22,Sprint planning,Prepare report #2,Review documents #3,Alice,In Progress,2026-01-26,Low
+Meeting 17,2026-01-22,Sprint planning,Review documents #3,Fix bug #4,Alice,Open,2026-02-01,Low
+Meeting 18,2026-01-23,Client requirement discussion,,Design UI #1,Alice,In Progress,2026-02-01,High
+Meeting 18,2026-01-23,Client requirement discussion,Design UI #1,Deploy update #2,Charlie,Done,2026-01-26,High
+Meeting 18,2026-01-23,Client requirement discussion,Deploy update #2,Design UI #3,Frank,Done,2026-01-29,Medium
+Meeting 18,2026-01-23,Client requirement discussion,Design UI #3,Update dashboard #4,Emma,In Progress,2026-01-31,Low
+Meeting 18,2026-01-23,Client requirement discussion,Update dashboard #4,Review documents #5,Emma,Done,2026-02-01,Medium
+Meeting 19,2026-01-24,Weekly project meeting,,Update dashboard #1,David,In Progress,2026-02-02,High
+Meeting 19,2026-01-24,Weekly project meeting,Update dashboard #1,Analyze data #2,Alice,In Progress,2026-01-29,Low
+Meeting 19,2026-01-24,Weekly project meeting,Analyze data #2,Prepare report #3,Charlie,Open,2026-01-31,Low
+Meeting 20,2026-01-25,Internal review meeting,,Prepare report #1,Alice,Open,2026-01-29,Medium
+Meeting 20,2026-01-25,Internal review meeting,Prepare report #1,Design UI #2,David,Open,2026-01-31,High
+Meeting 20,2026-01-25,Internal review meeting,Design UI #2,Analyze data #3,Emma,Open,2026-02-01,Medium
+Meeting 20,2026-01-25,Internal review meeting,Analyze data #3,Analyze data #4,David,Done,2026-02-01,Low
+Meeting 21,2026-01-26,Sprint planning,,Prepare report #1,Frank,Done,2026-02-04,Low
+Meeting 21,2026-01-26,Sprint planning,Prepare report #1,Write documentation #2,Charlie,In Progress,2026-01-29,High
+Meeting 21,2026-01-26,Sprint planning,Write documentation #2,Write documentation #3,David,Done,2026-01-31,Medium
+Meeting 21,2026-01-26,Sprint planning,Write documentation #3,Analyze data #4,Frank,In Progress,2026-02-05,High
+Meeting 22,2026-01-27,Weekly project meeting,,Prepare report #1,David,Done,2026-02-05,High
+Meeting 22,2026-01-27,Weekly project meeting,Prepare report #1,Prepare report #2,Alice,In Progress,2026-02-02,Low
+Meeting 22,2026-01-27,Weekly project meeting,Prepare report #2,Test feature #3,Alice,Open,2026-02-05,High
+Meeting 22,2026-01-27,Weekly project meeting,Test feature #3,Review documents #4,Charlie,Done,2026-01-30,Low
+Meeting 22,2026-01-27,Weekly project meeting,Review documents #4,Prepare report #5,Alice,Done,2026-02-02,Low
+Meeting 23,2026-01-28,Weekly project meeting,,Deploy update #1,David,Done,2026-01-31,Low
+Meeting 23,2026-01-28,Weekly project meeting,Deploy update #1,Deploy update #2,Emma,Open,2026-02-03,Low
+Meeting 23,2026-01-28,Weekly project meeting,Deploy update #2,Design UI #3,Emma,Open,2026-02-01,Low
+Meeting 24,2026-01-29,Client requirement discussion,,Analyze data #1,Alice,Open,2026-02-01,Low
+Meeting 24,2026-01-29,Client requirement discussion,Analyze data #1,Collect requirements #2,Bob,In Progress,2026-02-02,Medium
+Meeting 24,2026-01-29,Client requirement discussion,Collect requirements #2,Collect requirements #3,Charlie,Open,2026-02-04,Medium
+Meeting 24,2026-01-29,Client requirement discussion,Collect requirements #3,Update dashboard #4,Alice,Open,2026-02-04,High
+Meeting 24,2026-01-29,Client requirement discussion,Update dashboard #4,Review documents #5,Emma,Done,2026-02-01,High
+Meeting 24,2026-01-29,Client requirement discussion,Review documents #5,Test feature #6,Emma,Done,2026-02-08,High
+Meeting 25,2026-01-30,Product improvement discussion,,Deploy update #1,David,Open,2026-02-05,Medium
