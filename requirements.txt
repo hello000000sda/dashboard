@@ -1,0 +1,7 @@
+streamlit
+pandas
+os
+io
+date
+matplotlib.pyplot
+altair
